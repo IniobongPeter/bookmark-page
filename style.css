@@ -1,0 +1,23 @@
+#login{
+    background-color: hsl(0, 94%, 66%);
+    border-radius: 5px;
+    padding: 0px 20px;
+}
+#login a {
+    color: white;
+}
+
+#login:hover{
+    background-color: white;
+    border: 1px solid hsl(0, 94%, 66%) ;
+}
+#login a:hover{
+    color: hsl(0, 94%, 66%);
+}
+.nav-item{
+    margin-left: 20px;
+
+}
+.nav-item a:hover{
+    color: hsl(0, 94%, 66%) !important;
+}
