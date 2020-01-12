@@ -1,2 +1,2 @@
 # bookmark-page
-A bookmark landing page with H|TML, CSS, JS and Bootstrap.
+A bookmark landing page with HTML, CSS, JS and Bootstrap.
